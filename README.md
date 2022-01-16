@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Keso88
-- 👀 I’m interested in becoming a fullstack web developer
+- 👀 I’m interested in becoming a fullstack Engineer
 
 <!---
 Keso88/Keso88 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
